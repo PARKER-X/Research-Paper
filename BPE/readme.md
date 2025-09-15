@@ -1,4 +1,5 @@
-#Demo
+# Demo
+
 from collections import Counter, defaultdict
 
 # Corpus as a list of words
@@ -42,3 +43,4 @@ for i in range(num_merges):
 print("\nFinal vocabulary tokens:")
 for word in vocab:
     print(word)
+
